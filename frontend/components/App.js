@@ -40,7 +40,7 @@ function App() {
   fetchData();
   },
   
-  [];
+  []);
 
 console.log(combinedData)
 
